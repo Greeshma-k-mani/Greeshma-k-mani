@@ -5,14 +5,14 @@
 
 ---
 
-## 🌱 About Me 
+##  About Me 
 
 I am an ECE undergraduate currently **learning and working on my academic project** related to an **Intelligent Interactive Home Assistant Robot**.  
 This project is part of my learning journey, where I am gaining hands-on experience with hardware, programming, and system integration.
 
 ---
 
-## 🔭 Currently Learning  
+## Currently Learning  
 
 - Basics of **robotics and embedded systems**
 - Working with **Raspberry Pi and ESP32**
@@ -22,7 +22,7 @@ This project is part of my learning journey, where I am gaining hands-on experie
 
 ---
 
-## 🛠️ Tools & Technologies (Learning Stage)  
+## Tools & Technologies (Learning Stage)  
 
 - **Programming:** Python  
 - **Hardware:** Raspberry Pi, ESP32, Servo Motors  
@@ -46,12 +46,12 @@ This project is part of my learning journey, where I am gaining hands-on experie
 
 ---
 
-## 📫 How to Reach Me  
+##  How to Reach Me  
 
 - **GitHub:** [https://github.com/Greeshma-k-mani](https://github.com/Greeshma-k-mani)  
 
 ---
 
-## ⚡ Fun Fact  
+## Fun Fact  
 
 I believe learning by **building small projects step by step** is the best way to grow 🚀
