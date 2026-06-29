@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Greeshma K Mani  
 
-🎓 **Electronics and Communication Engineering (ECE) – 3rd Year Student**  
+🎓 **Electronics and Communication Engineering (ECE) – 4th Year Student**  
 🤖 Interested in Robotics, Embedded Systems & Automation  
 
 ---
