@@ -1,57 +1,141 @@
-# Hi there 👋, I'm Greeshma K Mani  
+<h1 align="center">Hi 👋, I'm Greeshma K Mani</h1>
+<h3 align="center">Electronics & Communication Engineering Student | Embedded Systems | IoT | AI</h3>
 
-🎓 **Electronics and Communication Engineering (ECE) – 4th Year Student**  
-🤖 Interested in Robotics, Embedded Systems & Automation  
+
 
 ---
 
-##  About Me 
+## 👩‍💻 About Me
 
-I am an ECE undergraduate currently **learning and working on my academic project** related to an **Intelligent Interactive Home Assistant Robot**.  
-This project is part of my learning journey, where I am gaining hands-on experience with hardware, programming, and system integration.
-
----
-
-## Currently Learning  
-
-- Basics of **robotics and embedded systems**
-- Working with **Raspberry Pi and ESP32**
-- **Python programming** using VS Code
-- Servo motor control and simple automation
-- Introduction to computer vision and speech interaction  
+- 🎓 B.Tech Electronics & Communication Engineering (Minor in Computer Science)
+- 🤖 Passionate about Embedded Systems, Robotics and AI
+- 🔍 Interested in Computer Vision, IoT and Smart Devices
+- 🌱 Currently learning **Verilog HDL**, **Embedded AI**, and **PCB Design**
+- 💡 Love building projects that combine hardware and software
+- 🤝 Open to collaboration on innovative engineering projects
 
 ---
 
-## Tools & Technologies (Learning Stage)  
+## 🚀 Featured Projects
 
-- **Programming:** Python  
-- **Hardware:** Raspberry Pi, ESP32, Servo Motors  
-- **IDE:** VS Code  
-- **Design Tool:** Fusion 360 (beginner level)  
+### 🤖 Human-Centric Embodied Home Assistant
 
----
+An intelligent Raspberry Pi-powered home assistant capable of natural interaction using voice, vision and embedded intelligence.
 
+✨ **Features**
 
-
-- Beginner-friendly robotics projects  
-- Embedded systems practice  
-- IoT and automation basics  
-
----
-
-
-- ECE student projects  
-- Learning embedded systems from scratch  
-- Getting started with Raspberry Pi & ESP32  
+- 👤 Face Recognition
+- 🎙️ Voice Interaction
+- 📡 mmWave Human Presence Detection
+- 🤖 3-DOF Robotic Head
+- 🚗 Wheel-based Mobility
+- 🏠 Smart Home Automation
+- 📶 ESP32 & ESP8266 Integration
 
 ---
 
-##  How to Reach Me  
+### 🌧️ Automated Rain Shield System
 
-- **GitHub:** [https://github.com/Greeshma-k-mani](https://github.com/Greeshma-k-mani)  
+An Arduino-based embedded automation project that automatically protects open spaces during rainfall using sensors and motor control.
 
 ---
 
-## Fun Fact  
+### 🥽 Virtual Horizon
 
-I believe learning by **building small projects step by step** is the best way to grow 🚀
+A Unity-based VR application designed for education and tourism experiences.
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c" />
+</p>
+
+### Embedded & Hardware
+
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+</p>
+
+### Software & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,matlab" />
+</p>
+
+### Design Tools
+
+<p>
+<img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fusion%20360-FF6C00?style=for-the-badge&logo=autodesk&logoColor=white"/>
+<img src="https://img.shields.io/badge/LTspice-8A2BE2?style=for-the-badge"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- 📘 Verilog HDL
+- 🧠 Embedded AI
+- 📡 IoT Systems
+- 🎯 Computer Vision
+- 🖥️ Linux for Embedded Systems
+- 🛠️ PCB Design
+
+---
+
+## 🏆 Certifications
+
+🏅 FPGA Prototyping Using Verilog HDL – NIELIT
+
+🏅 Microprocessors & Microcontrollers – NPTEL
+
+🏅 Machine Learning – NSDC
+
+🏅 Python for Data Science – NPTEL
+
+---
+
+## 🥇 Achievement
+
+🏆 **1st Place - INNOVIX (RISE 2026) Project Exhibition**
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/greeshma-k-mani">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/Greeshma-k-mani">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:greeshmamanikottayil@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://greeshma-k-mani.github.io">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+> **"Learning by building. Growing through every project."** 🚀
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Greeshma-k-mani&label=Profile+Views&color=0e75b6&style=flat"/>
+</p>
